@@ -5,13 +5,14 @@
  *
  * @package ASD_wp_kses_OnClick_Tags
  * Plugin Name:    ASD wp_kses OnClick Tags
- * Plugin URI:     https://artisansitedesigns.com/
+ * Plugin URI:     https://artisansitedesigns.com/plugins/asd-wpkses-tags-online
  * Description:    
  * Author:         Michael H Fahey
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_onclick_tags_wpkses
  * License:        GPL3
  * Version:        1.201808012
+ * Contributors:   michaelfahey
  *
  * ASD Onclick Tags wp_kses is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
