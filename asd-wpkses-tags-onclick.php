@@ -11,7 +11,7 @@
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_onclick_tags_wpkses
  * License:        GPL3
- * Version:        1.201808012
+ * Version:        1.201811241
  *
  * ASD Onclick Tags wp_kses is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
